@@ -1,0 +1,9 @@
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\b\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\b\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\b\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\b\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\b\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\i\UnitTests\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\i\UnitTests\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\i\UnitTests\Debug\UnitTests.dll
+C:\Users\n10330895\Desktop\PST2-Life\.vs\Life\lut\0\i\UnitTests\Debug\UnitTests.pdb

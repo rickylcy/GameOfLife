@@ -1,0 +1,7 @@
+C:\Users\n10330895\Desktop\PST2-Life\Life\bin\Debug\Life.exe.config
+C:\Users\n10330895\Desktop\PST2-Life\Life\bin\Debug\Life.exe
+C:\Users\n10330895\Desktop\PST2-Life\Life\bin\Debug\Life.pdb
+C:\Users\n10330895\Desktop\PST2-Life\Life\obj\Debug\Life.csprojResolveAssemblyReference.cache
+C:\Users\n10330895\Desktop\PST2-Life\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+C:\Users\n10330895\Desktop\PST2-Life\Life\obj\Debug\Life.exe
+C:\Users\n10330895\Desktop\PST2-Life\Life\obj\Debug\Life.pdb
